@@ -1,5 +1,5 @@
 # Snake_Game
-A classic Snake Game implemented in Java using Apache NetBeans IDE, inspired by the Code for Interview YouTube channel. Enjoy the nostalgia of the iconic Snake game with a modern twist!
+A classic Snake Game implemented in Java using Apache NetBeans IDE. Enjoy the nostalgia of the iconic Snake game with a modern twist!
 
 Introduction:
 Snake Game is a Java-based project created in Apache NetBeans IDE. The game offers a classic Snake gameplay experience, where players control a snake, guide it to eat food, and grow longer while avoiding collisions with walls and itself. This project drew inspiration from the Code for Interview YouTube channel.
