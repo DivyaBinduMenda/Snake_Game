@@ -11,7 +11,7 @@ Increasing difficulty as the snake grows
 Score tracking
 
 Prerequisites:
-Java Development Kit (JDK)
+Java Development Kit (JDK),
 Apache NetBeans IDE
 
 Installation:
